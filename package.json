@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft pour le serveur PixelOrigin",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, monster, Inc.",
+        "name": "luuxis, monster89460, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=false --build=platform",
-        "icon": "node build.js --icon=https://github.com/monster89460/PixelOrigin-Launcher/blob/master/src/assets/images/Logo2.png"
+        "icon": "node build.js --icon=https://raw.githubusercontent.com/monster89460/PixelOrigin-Launcher/9c671db19631096607a6d29843db7abe7c6c2e24/src/assets/images/Logo.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
