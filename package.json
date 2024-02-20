@@ -1,7 +1,7 @@
 {
     "name": "PixelOrigin-Launcher",
     "preductname": "PixelOrigin Launcher",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Launcher Mincraft pour le serveur PixelOrigin",
     "main": "src/app.js",
     "author": {
